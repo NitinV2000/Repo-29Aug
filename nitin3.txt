@@ -1,2 +1,2 @@
 File3
-Do QA fix for merge conflict 
+Resolved
